@@ -1,2 +1,2 @@
 # soukupsoft.github.io
-My website.
+Well, the page is currently empty. I hope I will get around to it soon.
